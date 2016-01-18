@@ -13,7 +13,7 @@ Files included:
 - movie_tester.py: Includes example movies generated through the Movie class (Credit to Udacity)
 - fresh_tomatoes.py: Generates .html when run
 
-Changes since 1.0 
+Changes since 1.0
 - fresh_tomatoes - Added rating to .html code generated for each movie
 
 ---------------------------
@@ -21,6 +21,5 @@ Changes since 1.0
 ---------------------------
 Required: Python 2.7+
 
-Directions: Run the movie_tester.py through Python's IDLE. Your site should immeditely 
+Directions: Run the movie_tester.py through Python's IDLE. Your site should immeditely
 load and leave a .html file in the root folder
-
